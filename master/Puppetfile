@@ -9,3 +9,5 @@ mod 'newrelic-nrsysmond',
   :git => "git://github.com/newrelic/puppet-nrsysmond.git"
 
 mod 'saz-timezone'
+
+mod 'tracywebtech-pip', '1.3.2'

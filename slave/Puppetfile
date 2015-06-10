@@ -7,3 +7,5 @@ mod 'rtyler/jenkins'
 mod 'tracywebtech-pip'
 mod 'newrelic-nrsysmond',
   :git => "git://github.com/newrelic/puppet-nrsysmond.git"
+
+mod 'tracywebtech-pip', '1.3.2'
